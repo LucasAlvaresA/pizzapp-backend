@@ -12,7 +12,7 @@
 
 - Clone the repo
 
-       git clone https://github.com/LucasAlvaresA/pizzapp-backend.git
+       git clone git@github.com:LucasAlvaresA/pizzapp-backend.git
        
 - Install YARN packages
 
