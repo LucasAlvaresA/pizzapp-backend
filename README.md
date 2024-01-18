@@ -26,3 +26,4 @@
 
 - This repository is part of the Pizza App - Web (to do) and Pizza App (to do) project
 - All routes are in the insomnia file, just import it into your application
+- You need to set up a local database before running this project
