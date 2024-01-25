@@ -12,7 +12,7 @@
 
 - Clone the repo
 
-       git clone https://github.com/LucasAlvaresA/pizzapp-backend.git
+       git clone git@github.com:LucasAlvaresA/pizzapp-backend.git
        
 - Install YARN packages
 
@@ -24,5 +24,6 @@
 
 ## Warnings
 
-- This repository is part of the Pizza App - Web (to do) and Pizza App (to do) project
+- This repository is part of the Pizzapp project ( [Web](https://github.com/LucasAlvaresA/pizzapp-web), [App](https://github.com/LucasAlvaresA/pizzapp) )
 - All routes are in the insomnia file, just import it into your application
+- You need to set up a local database before running this project
