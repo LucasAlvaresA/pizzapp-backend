@@ -15,6 +15,8 @@ class AddItemService {
                 amount,
             },
         });
+
+        return order;
     }
 }
 
