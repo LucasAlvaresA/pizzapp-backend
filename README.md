@@ -26,4 +26,4 @@
 
 - This repository is part of the Pizzapp project ( [Web](https://github.com/LucasAlvaresA/pizzapp-web), [App](https://github.com/LucasAlvaresA/pizzapp) )
 - All routes are in the insomnia file, just import it into your application
-- You need to set up a local database before running this project
+- You need to set up a local database and set the .env file before running this project
