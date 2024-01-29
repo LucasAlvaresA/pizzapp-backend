@@ -22,8 +22,15 @@
 
       yarn dev
 
+## Setup
+Before running this project, you need to:
+
+- Create a local database with [PostgreeSql](https://www.postgresql.org/download/)
+- Run the command: ```yarn prisma migrate dev ```
+- Set the .env file 
+
 ## Warnings
 
 - This repository is part of the Pizzapp project ( [Web](https://github.com/LucasAlvaresA/pizzapp-web), [App](https://github.com/LucasAlvaresA/pizzapp) )
 - All routes are in the insomnia file, just import it into your application
-- You need to set up a local database and set the .env file before running this project
+
